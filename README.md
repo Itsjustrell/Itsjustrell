@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Passionate about **Web3**, **Backend**
+- 🧠 Passionate about **Web3** and **Backend**
 - 🧩 Enjoy solving complex problems and automating boring stuff
 - 💡 Obsessed with decentralized tech and real-world utility of blockchain
 - 🛠️ Not a fan of bloat. I like things clean, simple, and efficient
