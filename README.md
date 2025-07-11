@@ -18,5 +18,5 @@
 - 🧩 Enjoy solving complex problems and automating boring stuff
 - 💡 Obsessed with finance technonolgy and real-world utility of blockchain
 - 🛠️ Not a fan of bloat. I like things clean, simple, and efficient
-- 💡 Languages      : HTML, CSS, Javascript, Solidity
+- 💡 Languages      : HTML, CSS, C++, Javascript, Solidity
 - 🛠️ Framework      : Bootstrap, Tailwind CSS, Foundry
